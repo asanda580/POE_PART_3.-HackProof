@@ -22,7 +22,7 @@ public class HackProofMain extends JFrame {
     private static final String DB_URL  = "jdbc:mysql://localhost:3306/cybersecurity_chatbot";
     private static final String DB_USER = "root";
     private static final String DB_PASS = "EhuawaMatka95@"; // This is the password that i set when i installed MySQL to my computer
-                                                           // Somehow no other password work except this.
+                                                           //You can change the password to your liking i think
 
     // the activity log. 
     private final ArrayList<String> activityLog = new ArrayList<>();
